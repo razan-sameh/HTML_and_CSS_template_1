@@ -6,3 +6,6 @@ This repository contains a simple template homepage created using HTML, CSS, and
 - Responsive Design: Utilizes Bootstrap for responsive layout and design, ensuring compatibility across various devices and screen sizes.
 - Custom Styling: Includes custom CSS to enhance the visual appeal and tailor the design to your preferences.
 - Easy to Customize: With clean and well-organized code, it's straightforward to customize and extend according to your needs.
+
+##
+Open demo from [here](https://homepage-template1.firebaseapp.com/)
